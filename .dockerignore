@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+.env
+*.png
+*.html
+debug-*
+test-*
+check-*
+simple-server.js
+debug-server.js
+test-server.js
+*.bat
+README.md
+QUICKSTART.md
+.DS_Store
+._*
